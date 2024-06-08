@@ -10,10 +10,17 @@ To create a comprehensive weekly dashboard for credit card operations, providing
 
 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘 𝒀𝒆𝒂𝒓 𝑻𝒐 𝑫𝒂𝒚:
  • Overall revenue is 𝟓𝟕𝑴
+ 
  • Total interest is 𝟖𝑴
+ 
  • Total transaction amount is 𝟒𝟔𝑴
+ 
  • Male customers are contributing more in revenue 𝟑𝟏𝑴, & females 𝟐𝟔𝑴
+ 
  • Blue & Silver credit cards are contributing to 𝟗𝟑% of overall transactions
+ 
  • TX, NY & CA is contributing to 𝟔𝟖%
+ 
  • Overall Activation rate is 𝟓𝟕.𝟕%
+ 
  • Overall Delinquent rate is 𝟔.𝟎𝟔%
